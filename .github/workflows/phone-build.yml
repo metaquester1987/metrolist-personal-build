@@ -1,4 +1,5 @@
 name: Build Personal APK
+run-name: Personal APK build
 
 on:
   workflow_dispatch:
